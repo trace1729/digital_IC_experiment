@@ -6,7 +6,7 @@
 一个合适的工具对于我们的学习至关重要，在本系列实验开始之间，我们首先需要安装我们的仿真软件LTspice，LTspice是完全免费的，大家可以从LTspice的官网下载，就在最近（2024/8/29）LTspice更新了全新的版本24，这个版本的界面共更加“酷炫”了，快捷键也更加“人性化”了。
 ## 0.1. LTspice工具的安装
 LTspice的安装异常简单，我相信大家都可以正常安装的。。。官方网址如下：https://www.analog.com/cn/resources/design-tools-and-calculators/ltspice-simulator.html
-![pic1](.\图片\图片1.png)
+![pic1](.\pic\pic1.png)
 
 ## 0.2. LTspice工具的使用
 这部分内容网络上有非常多的学习资料，请大家自行STFW，这里推荐2个B站大学的系列教程（虽然使用的是老版本的LTspice，但是基本操作基本相同）：
