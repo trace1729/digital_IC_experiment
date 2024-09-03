@@ -1,8 +1,8 @@
 site_name: 数字集成电路实验讲义
-site_url: https://github.com/trace1729/digital
+site_url: https://github.com/15947470421/digital_IC_experiment
 
 repo_name: 数字集成电路实验讲义 
-repo_url: https://github.com/trace1729/digital
+repo_url: https://github.com/15947470421/digital_IC_experiment
 
 theme:
   name: material
